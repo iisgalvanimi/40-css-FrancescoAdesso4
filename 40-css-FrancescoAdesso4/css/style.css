@@ -1,0 +1,73 @@
+.container {
+    display: flex;
+    height: 300px;
+    justify-content: space-between;
+    align-items: flex-end;
+    background-color: bisque;
+
+}
+  
+.item { 
+      width: 17%; 
+      background-color: green;
+      border: 1px solid #4390E1;
+}
+
+#item1 { 
+    height: 30%; 
+    background-color: aqua;
+    border: 1px solid black;
+    margin-left: 10px;
+    margin: 10px;
+}
+
+#item2 { 
+    height: 250px; 
+    background-color: aqua;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+#item3 { 
+    height: 75%;
+    background-color: violet; 
+    border: 1px solid  black;
+    margin: 10px;
+}
+
+#item4 { 
+    height: 35%;
+    background-color: pink ; 
+    border: 1px solid black;
+    margin-right: 10px;
+    margin: 10px;
+}
+
+
+
+body{
+    text-align: center;
+    
+}
+.upper-div{
+    background-color: blue;
+    margin: 56px;
+}
+hr{
+    border: 1px double blueviolet;
+    margin-left: 10px ;
+    margin-right: 10px;
+}
+
+#upper-div-image{
+    width: 200px;
+    border-radius: 50%;
+    border: 2px double red;
+    margin: 32px;
+
+    
+}
+
+.upper-div-link{
+    color: white;
+}
